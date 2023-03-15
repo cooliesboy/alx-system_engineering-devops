@@ -1,2 +1,2 @@
 #!/binn/bash
-tail /etc{passwd.hosts}
+tail /etc/passwd
